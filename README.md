@@ -8,3 +8,10 @@ eg1
 
 eg2
 ![Screenshot (28)](https://user-images.githubusercontent.com/109476637/204427607-acf00879-83a5-442e-b0fa-875ccda9dee3.png)
+
+
+
+
+
+eg3
+![Screenshot (29)](https://user-images.githubusercontent.com/109476637/204494476-8c14e555-cf44-4b8c-8680-282577c42148.png)
